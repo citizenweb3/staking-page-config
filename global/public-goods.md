@@ -1,10 +1,10 @@
 ### Public Goods for {{pretty_name}}
 
 ## Endpoints:
-RPC: `{{endpoints.rpc}}`
+RPC: [{{endpoints.rpc}}]({{endpoints.rpc}})
 
-WSS: `{{endpoints.wss}}`
+WSS: [{{endpoints.wss}}]({{endpoints.wss}})
 
-REST: `{{endpoints.rest}}`
+REST: [{{endpoints.rest}}]({{endpoints.rest}})
 
-GRPC: `{{endpoints.grpc}}`
+GRPC: [{{endpoints.grpc}}]({{endpoints.grpc}})
